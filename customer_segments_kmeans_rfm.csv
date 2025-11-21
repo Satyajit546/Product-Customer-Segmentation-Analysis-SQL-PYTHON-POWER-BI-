@@ -1,0 +1,299 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment,Location,Gender
+C001,14,8,2612833.132,3,Loyal Customers,Kolkata,Male
+C002,238,3,510214.78990000003,2,New/Lapsed Customers,Mumbai,Male
+C003,200,1,793273.3088,2,New/Lapsed Customers,Ahmedabad,Female
+C004,245,1,311158.58400000003,2,New/Lapsed Customers,Ahmedabad,Male
+C005,44,4,1257310.5995999998,3,Loyal Customers,Chennai,Male
+C006,240,4,1033251.0125999999,1,At Risk,Hyderabad,Female
+C007,172,7,3949635.7153000003,0,Champions,Chennai,Female
+C008,98,9,2300352.3408,0,Champions,Delhi,Female
+C009,338,4,1461141.589,1,At Risk,Chennai,Female
+C010,86,4,2795834.2574,0,Champions,Kolkata,Male
+C011,124,4,1588654.8424999998,1,At Risk,Mumbai,Female
+C012,220,8,1610743.094,0,Champions,Pune,Male
+C013,134,7,2984484.5433,0,Champions,Ahmedabad,Male
+C014,83,8,3057003.0633,0,Champions,Hyderabad,Female
+C015,203,7,2551079.5379999997,0,Champions,Hyderabad,Male
+C016,58,5,811184.3218,1,At Risk,Kolkata,Male
+C017,18,5,2829321.8124,3,Loyal Customers,Hyderabad,Female
+C018,119,6,2176499.1685,0,Champions,Kolkata,Male
+C019,252,2,708196.9698,2,New/Lapsed Customers,Mumbai,Male
+C020,31,6,1634364.5811,3,Loyal Customers,Lucknow,Female
+C021,271,2,591641.8208,2,New/Lapsed Customers,Bengaluru,Female
+C022,126,4,536527.2475,1,At Risk,Kolkata,Male
+C023,4,4,1017797.3264,3,Loyal Customers,Jaipur,Male
+C024,17,3,994775.8119999999,3,Loyal Customers,Ahmedabad,Female
+C025,95,4,2390140.4324000003,1,At Risk,Chennai,Male
+C026,302,4,2612021.1884000003,1,At Risk,Hyderabad,Male
+C027,18,5,1990567.9984,3,Loyal Customers,Delhi,Female
+C028,105,7,2911519.0062999995,0,Champions,Bengaluru,Male
+C029,215,2,519678.444,2,New/Lapsed Customers,Chennai,Female
+C030,83,6,1699634.0173999998,0,Champions,Kolkata,Female
+C031,76,6,2757108.9367,0,Champions,Jaipur,Male
+C032,74,1,401171.5233,2,New/Lapsed Customers,Mumbai,Male
+C033,41,4,865010.4892,3,Loyal Customers,Delhi,Female
+C034,273,1,97881.9664,2,New/Lapsed Customers,Chennai,Male
+C035,155,5,1547533.1497999998,1,At Risk,Jaipur,Female
+C036,167,4,1378478.3717,1,At Risk,Ahmedabad,Male
+C037,52,11,2541687.7865,0,Champions,Bengaluru,Male
+C038,421,1,628573.8186000001,2,New/Lapsed Customers,Jaipur,Female
+C039,61,5,1813885.9811999998,0,Champions,Lucknow,Female
+C040,318,5,2074482.7933999998,1,At Risk,Mumbai,Female
+C041,2,6,1902287.6838999998,3,Loyal Customers,Kolkata,Male
+C042,44,5,1784603.2858,3,Loyal Customers,Pune,Female
+C043,44,6,3001086.3567,0,Champions,Pune,Male
+C044,102,7,3048091.0491,0,Champions,Ahmedabad,Female
+C045,177,3,2037908.6938,1,At Risk,Jaipur,Female
+C046,47,4,2264243.1528,3,Loyal Customers,Bengaluru,Female
+C047,42,4,1225594.3297000001,3,Loyal Customers,Bengaluru,Female
+C048,133,5,788307.9256,1,At Risk,Chennai,Male
+C049,1,9,4064760.9065,3,Loyal Customers,Kolkata,Male
+C050,176,5,2061173.7888000002,1,At Risk,Hyderabad,Female
+C051,387,2,1618529.88,1,At Risk,Lucknow,Female
+C052,481,2,243342.78629999998,2,New/Lapsed Customers,Chennai,Female
+C053,164,5,911900.3878,1,At Risk,Chennai,Female
+C054,19,6,1540105.9705,3,Loyal Customers,Pune,Male
+C055,155,6,1885484.5959,0,Champions,Mumbai,Male
+C056,337,3,1864445.7124,1,At Risk,Mumbai,Female
+C057,112,3,144918.302,2,New/Lapsed Customers,Jaipur,Male
+C058,45,2,253270.49920000002,2,New/Lapsed Customers,Pune,Male
+C059,3,10,2937681.1036,3,Loyal Customers,Lucknow,Female
+C060,135,1,19325.3265,2,New/Lapsed Customers,Jaipur,Female
+C061,95,3,788000.8514,1,At Risk,Kolkata,Female
+C062,79,9,3240798.7536000004,0,Champions,Jaipur,Female
+C063,376,2,597406.584,2,New/Lapsed Customers,Bengaluru,Female
+C064,130,4,1353731.8558,1,At Risk,Bengaluru,Male
+C065,34,5,3106186.0492,3,Loyal Customers,Chennai,Male
+C066,10,6,1760457.458,3,Loyal Customers,Delhi,Male
+C067,289,6,2782955.3049,0,Champions,Bengaluru,Male
+C068,223,9,3999231.2464999994,0,Champions,Lucknow,Female
+C069,104,6,3272446.5989,0,Champions,Jaipur,Male
+C070,13,5,1520601.9888,3,Loyal Customers,Mumbai,Male
+C071,84,3,815789.2308000001,1,At Risk,Chennai,Male
+C072,49,6,1303368.2036000001,3,Loyal Customers,Pune,Female
+C073,358,1,105584.84999999999,2,New/Lapsed Customers,Hyderabad,Male
+C074,83,7,3392901.5771,0,Champions,Mumbai,Male
+C075,22,6,1898698.5887000002,3,Loyal Customers,Ahmedabad,Male
+C076,262,7,1803967.0361000001,0,Champions,Kolkata,Female
+C077,106,6,1826476.3114,0,Champions,Lucknow,Male
+C078,110,1,411870.528,2,New/Lapsed Customers,Kolkata,Female
+C079,100,5,2554325.9595999997,0,Champions,Mumbai,Female
+C080,59,7,3430667.9544,0,Champions,Jaipur,Female
+C081,45,5,1108525.6128,3,Loyal Customers,Lucknow,Female
+C082,336,5,2333941.7712,1,At Risk,Delhi,Female
+C083,44,3,1412037.1603999997,1,At Risk,Lucknow,Female
+C084,12,3,1258620.2311,3,Loyal Customers,Hyderabad,Female
+C085,42,3,241942.2526,2,New/Lapsed Customers,Hyderabad,Male
+C086,106,6,2205050.8669000003,0,Champions,Mumbai,Female
+C087,179,4,2486975.016,1,At Risk,Lucknow,Female
+C088,75,9,3475665.4005,0,Champions,Jaipur,Female
+C089,115,7,2643434.4528,0,Champions,Chennai,Female
+C090,423,3,476450.1574,2,New/Lapsed Customers,Hyderabad,Male
+C091,32,11,5245298.922499999,0,Champions,Ahmedabad,Male
+C092,100,8,3687445.4044999997,0,Champions,Chennai,Female
+C093,391,2,711076.7100000001,2,New/Lapsed Customers,Ahmedabad,Female
+C094,244,7,4625182.4934,0,Champions,Lucknow,Male
+C095,292,4,1312138.2571999999,1,At Risk,Pune,Male
+C096,57,6,2403991.9504,0,Champions,Jaipur,Male
+C097,93,7,2078194.5531000001,0,Champions,Bengaluru,Male
+C098,274,3,748195.2708,1,At Risk,Lucknow,Female
+C099,205,3,429315.4666,2,New/Lapsed Customers,Jaipur,Female
+C100,68,5,962207.1937,1,At Risk,Bengaluru,Female
+C101,74,8,2685613.8234,0,Champions,Mumbai,Male
+C102,48,5,2400496.0191,0,Champions,Ahmedabad,Male
+C103,32,5,1624327.1752999998,3,Loyal Customers,Jaipur,Male
+C104,206,3,530403.3772,2,New/Lapsed Customers,Hyderabad,Female
+C105,128,7,2104288.161,0,Champions,Kolkata,Female
+C106,174,4,1685263.2312,1,At Risk,Mumbai,Female
+C107,94,3,1065831.6696000001,1,At Risk,Hyderabad,Male
+C108,149,4,1048555.15,1,At Risk,Pune,Female
+C109,75,4,1473421.356,1,At Risk,Hyderabad,Male
+C110,46,7,2373128.6648,0,Champions,Mumbai,Male
+C111,271,5,1833134.6676,1,At Risk,Chennai,Female
+C112,88,5,1620782.8675,0,Champions,Ahmedabad,Male
+C114,103,4,1178146.3928,1,At Risk,Bengaluru,Female
+C115,18,6,2141218.1106000002,3,Loyal Customers,Bengaluru,Male
+C116,128,5,2346141.4315,0,Champions,Kolkata,Male
+C117,178,3,717527.4479,1,At Risk,Pune,Male
+C118,318,4,1588247.6711000002,1,At Risk,Delhi,Female
+C119,22,6,1930450.5335,3,Loyal Customers,Kolkata,Male
+C120,71,4,1098216.1336,1,At Risk,Chennai,Male
+C121,133,2,337585.83719999995,2,New/Lapsed Customers,Jaipur,Female
+C122,286,5,1510505.8797,1,At Risk,Bengaluru,Female
+C123,59,7,3245410.7853,0,Champions,Bengaluru,Male
+C124,136,4,2135616.149,1,At Risk,Pune,Female
+C125,29,8,1209587.2752,3,Loyal Customers,Jaipur,Female
+C126,159,7,2795595.9979999997,0,Champions,Chennai,Male
+C127,34,5,719864.7204999999,3,Loyal Customers,Kolkata,Male
+C128,15,6,1651582.3784,3,Loyal Customers,Delhi,Female
+C129,10,2,653113.4746000001,3,Loyal Customers,Pune,Male
+C130,1,8,2682273.582,3,Loyal Customers,Chennai,Female
+C131,305,4,2576976.1948,1,At Risk,Kolkata,Female
+C132,87,6,2093187.7257,0,Champions,Hyderabad,Male
+C133,205,4,1078286.7864,1,At Risk,Jaipur,Female
+C134,280,4,1574816.5536,1,At Risk,Jaipur,Female
+C135,105,11,4916133.799199999,0,Champions,Kolkata,Male
+C136,178,3,494412.8803,2,New/Lapsed Customers,Kolkata,Male
+C137,46,7,3673455.4088000003,0,Champions,Bengaluru,Male
+C138,37,9,2563861.0952,0,Champions,Pune,Male
+C139,15,12,4805174.5304,0,Champions,Chennai,Female
+C140,416,4,1441645.4205,1,At Risk,Mumbai,Male
+C141,161,6,2752761.0387,0,Champions,Delhi,Female
+C142,73,5,1190299.4922999998,1,At Risk,Pune,Female
+C143,37,6,1074070.7907,3,Loyal Customers,Bengaluru,Female
+C144,54,7,1274172.3276,0,Champions,Bengaluru,Male
+C145,132,3,1128538.0726,1,At Risk,Mumbai,Male
+C146,38,3,2007928.5164,3,Loyal Customers,Ahmedabad,Male
+C147,115,5,2001725.6994999999,0,Champions,Mumbai,Female
+C148,1,5,532547.5475,3,Loyal Customers,Ahmedabad,Female
+C149,32,9,2685358.4239999996,0,Champions,Bengaluru,Female
+C150,156,3,931499.9722,1,At Risk,Delhi,Male
+C151,92,6,1291271.5255,0,Champions,Kolkata,Male
+C152,238,5,2041708.3233000003,1,At Risk,Bengaluru,Female
+C153,6,8,2568355.9927,3,Loyal Customers,Mumbai,Female
+C154,12,11,3148104.8804,3,Loyal Customers,Ahmedabad,Male
+C155,444,1,253845.3456,2,New/Lapsed Customers,Bengaluru,Male
+C156,163,5,1753253.5857999998,1,At Risk,Hyderabad,Female
+C157,52,5,1374365.0317,3,Loyal Customers,Mumbai,Female
+C158,11,5,886661.8714,3,Loyal Customers,Kolkata,Male
+C159,66,5,1767019.3776,0,Champions,Delhi,Male
+C160,36,4,2703283.9976999997,3,Loyal Customers,Chennai,Male
+C161,82,7,1856909.5533999996,0,Champions,Ahmedabad,Male
+C162,241,6,2573805.6954,0,Champions,Ahmedabad,Male
+C163,280,6,2400524.8848,0,Champions,Chennai,Male
+C164,30,8,1510288.7514999998,3,Loyal Customers,Ahmedabad,Male
+C165,168,6,1857571.4658,0,Champions,Lucknow,Female
+C166,190,2,1232958.1832,1,At Risk,Hyderabad,Female
+C167,152,4,1727144.7282,1,At Risk,Lucknow,Male
+C168,75,5,2355550.4683999997,0,Champions,Hyderabad,Male
+C169,414,5,1848331.7792,1,At Risk,Pune,Female
+C170,267,2,856444.4032,2,New/Lapsed Customers,Jaipur,Female
+C171,128,5,2015715.9884,0,Champions,Mumbai,Female
+C172,33,4,353478.125,3,Loyal Customers,Jaipur,Male
+C173,66,2,1419395.5653,1,At Risk,Lucknow,Male
+C174,13,4,874210.3576,3,Loyal Customers,Chennai,Male
+C175,123,7,1606993.261,0,Champions,Delhi,Male
+C176,304,2,665821.388,2,New/Lapsed Customers,Mumbai,Male
+C177,327,4,1562538.1588,1,At Risk,Lucknow,Male
+C178,197,1,974947.617,2,New/Lapsed Customers,Mumbai,Female
+C179,392,4,2244086.5722,1,At Risk,Mumbai,Female
+C180,98,7,2238771.0211,0,Champions,Lucknow,Male
+C181,155,6,952081.373,1,At Risk,Bengaluru,Male
+C182,102,7,2110396.4987,0,Champions,Kolkata,Female
+C183,10,10,1813670.6248,3,Loyal Customers,Hyderabad,Male
+C184,12,2,458616.44999999995,3,Loyal Customers,Kolkata,Female
+C185,213,4,1677226.605,1,At Risk,Delhi,Male
+C186,86,5,2040977.7737999998,0,Champions,Kolkata,Male
+C187,26,4,1165231.1319,3,Loyal Customers,Lucknow,Female
+C188,22,6,2206436.4595,3,Loyal Customers,Chennai,Male
+C189,18,6,2084498.5454,3,Loyal Customers,Kolkata,Female
+C190,258,4,1319431.9846,1,At Risk,Lucknow,Female
+C191,17,6,1430821.5389,3,Loyal Customers,Jaipur,Male
+C192,141,6,776493.0305999999,1,At Risk,Lucknow,Female
+C193,79,1,429567.84599999996,2,New/Lapsed Customers,Delhi,Male
+C194,190,4,795162.608,1,At Risk,Pune,Male
+C195,66,6,1841514.0833,0,Champions,Hyderabad,Male
+C196,376,3,1271862.6888,1,At Risk,Bengaluru,Female
+C197,13,7,2462063.3099999996,3,Loyal Customers,Ahmedabad,Female
+C198,48,5,2345787.9593999996,0,Champions,Mumbai,Male
+C199,279,3,1462865.581,1,At Risk,Jaipur,Female
+C200,50,7,2964303.7767000003,0,Champions,Hyderabad,Female
+C201,393,3,143306.8287,2,New/Lapsed Customers,Lucknow,Female
+C202,37,6,2979887.8799,0,Champions,Hyderabad,Female
+C203,241,1,974780.76,2,New/Lapsed Customers,Mumbai,Female
+C204,78,6,2733178.738,0,Champions,Chennai,Male
+C205,12,11,2413396.1292999997,3,Loyal Customers,Pune,Female
+C206,48,7,2092024.1797000002,0,Champions,Chennai,Male
+C207,313,3,206030.40639999998,2,New/Lapsed Customers,Ahmedabad,Female
+C208,613,2,752923.5828,2,New/Lapsed Customers,Hyderabad,Male
+C209,144,8,2375427.8427999998,0,Champions,Kolkata,Female
+C210,251,3,2319104.6094,1,At Risk,Mumbai,Female
+C211,99,5,1802051.6622000001,0,Champions,Kolkata,Male
+C212,231,4,1556267.8813,1,At Risk,Bengaluru,Female
+C213,41,1,394241.2892,2,New/Lapsed Customers,Hyderabad,Female
+C214,102,5,1374121.6763,1,At Risk,Pune,Male
+C215,11,6,2786832.0456999997,3,Loyal Customers,Hyderabad,Female
+C216,38,10,3247651.6606,0,Champions,Bengaluru,Male
+C218,53,4,1931128.6172000002,1,At Risk,Pune,Female
+C219,128,4,1791809.5328,1,At Risk,Delhi,Male
+C220,167,5,1421095.5592,1,At Risk,Pune,Female
+C221,37,5,1511190.0622,3,Loyal Customers,Jaipur,Male
+C222,184,4,1736215.2974999999,1,At Risk,Delhi,Male
+C223,292,9,3562586.3328,0,Champions,Hyderabad,Male
+C224,42,6,1785041.728,3,Loyal Customers,Kolkata,Female
+C225,96,5,2848460.4181999997,0,Champions,Mumbai,Female
+C226,37,5,1258400.8995,3,Loyal Customers,Mumbai,Male
+C227,513,4,1503478.2965,1,At Risk,Kolkata,Male
+C228,12,7,3041288.684,3,Loyal Customers,Bengaluru,Male
+C229,73,7,2613997.0415,0,Champions,Jaipur,Female
+C230,8,7,1473746.9159999997,3,Loyal Customers,Kolkata,Male
+C231,90,8,3224638.6599,0,Champions,Kolkata,Male
+C232,181,8,1963154.3227,0,Champions,Mumbai,Male
+C233,84,5,1175057.364,1,At Risk,Delhi,Male
+C234,9,7,915208.5836,3,Loyal Customers,Bengaluru,Female
+C235,72,3,602205.77,1,At Risk,Bengaluru,Male
+C236,30,4,637181.3742,3,Loyal Customers,Kolkata,Male
+C237,45,4,1989262.7926000003,3,Loyal Customers,Kolkata,Male
+C238,303,9,3677973.2746,0,Champions,Lucknow,Female
+C239,171,1,59742.736,2,New/Lapsed Customers,Delhi,Male
+C240,14,8,1972926.6634,3,Loyal Customers,Hyderabad,Male
+C241,232,2,150498.594,2,New/Lapsed Customers,Delhi,Female
+C242,83,5,1637980.2468,0,Champions,Jaipur,Female
+C243,55,9,4103540.1722999997,0,Champions,Kolkata,Male
+C244,467,3,1419051.6686,1,At Risk,Pune,Female
+C245,66,7,2895868.5736999996,0,Champions,Chennai,Female
+C246,92,5,930257.1728000001,1,At Risk,Chennai,Female
+C247,109,8,1409220.4013,0,Champions,Delhi,Female
+C248,9,5,1032224.9398,3,Loyal Customers,Pune,Male
+C249,130,3,1092985.0976,1,At Risk,Lucknow,Female
+C250,598,1,32872.0126,2,New/Lapsed Customers,Ahmedabad,Female
+C251,33,4,563111.3597,3,Loyal Customers,Bengaluru,Female
+C252,50,9,2667755.8651,0,Champions,Kolkata,Male
+C253,229,5,3552453.1611,0,Champions,Kolkata,Male
+C254,16,10,4050241.8585,3,Loyal Customers,Delhi,Female
+C255,519,1,411545.808,2,New/Lapsed Customers,Lucknow,Female
+C256,6,2,570131.9099,3,Loyal Customers,Lucknow,Female
+C257,272,3,1709624.1561,1,At Risk,Jaipur,Male
+C258,39,7,1287422.7859,3,Loyal Customers,Chennai,Female
+C259,166,5,3311377.1064999998,0,Champions,Lucknow,Female
+C260,236,5,2045780.2912999997,1,At Risk,Hyderabad,Female
+C261,213,6,1346609.9138,1,At Risk,Chennai,Female
+C262,242,1,271436.382,2,New/Lapsed Customers,Pune,Male
+C263,156,4,812385.8544000001,1,At Risk,Pune,Male
+C264,104,5,1256487.0383,1,At Risk,Chennai,Male
+C265,90,5,2021873.1606,0,Champions,Ahmedabad,Male
+C266,37,2,468323.17139999993,2,New/Lapsed Customers,Ahmedabad,Female
+C267,244,5,755935.6553999999,1,At Risk,Lucknow,Male
+C268,268,7,2814081.0505,0,Champions,Mumbai,Female
+C269,126,10,2512737.2049000002,0,Champions,Pune,Male
+C270,291,8,1750198.6205,0,Champions,Bengaluru,Male
+C271,156,2,461638.6428,2,New/Lapsed Customers,Kolkata,Male
+C272,143,7,1599257.1031000002,0,Champions,Hyderabad,Male
+C273,81,7,3952400.1474,0,Champions,Ahmedabad,Male
+C274,16,8,2887369.4542,3,Loyal Customers,Delhi,Female
+C275,333,3,1083117.1852000002,1,At Risk,Chennai,Female
+C276,122,3,1060326.3218,1,At Risk,Chennai,Male
+C277,134,5,2864272.2881,0,Champions,Pune,Male
+C278,10,7,2653924.2996,3,Loyal Customers,Pune,Female
+C279,273,3,695616.2693,1,At Risk,Chennai,Male
+C280,263,4,578110.3932,1,At Risk,Mumbai,Female
+C281,105,10,2130780.9219,0,Champions,Bengaluru,Female
+C282,572,1,127749.62100000003,2,New/Lapsed Customers,Kolkata,Male
+C283,74,3,1242186.7024,1,At Risk,Ahmedabad,Female
+C284,54,6,1597014.0827,0,Champions,Mumbai,Male
+C285,527,2,1495404.1202,1,At Risk,Hyderabad,Male
+C286,309,6,2705593.5999,0,Champions,Mumbai,Male
+C287,61,7,1218638.0967,0,Champions,Pune,Female
+C288,208,4,2175552.4174,1,At Risk,Bengaluru,Female
+C289,26,4,1086947.5440999998,3,Loyal Customers,Ahmedabad,Male
+C290,171,4,1681443.5436,1,At Risk,Delhi,Male
+C291,212,3,1045396.5624,1,At Risk,Lucknow,Male
+C292,25,8,2006725.7122999998,3,Loyal Customers,Bengaluru,Male
+C293,65,6,2017210.7437999998,0,Champions,Jaipur,Female
+C294,99,2,108811.8083,2,New/Lapsed Customers,Jaipur,Male
+C295,302,3,638558.4103,1,At Risk,Pune,Female
+C296,3,3,600452.2600000001,3,Loyal Customers,Chennai,Female
+C297,34,3,1206131.5992,3,Loyal Customers,Kolkata,Female
+C298,168,5,2122397.9417000003,1,At Risk,Mumbai,Female
+C299,17,8,1959548.5528,3,Loyal Customers,Lucknow,Female
+C300,389,2,1073403.9735000003,1,At Risk,Delhi,Male
